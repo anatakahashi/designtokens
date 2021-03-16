@@ -1,0 +1,32 @@
+global:
+  type: thickness
+  category: border-thickness
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: no-border
+    value: '{!no-border}'
+    meta:
+     friendlyName: No Border
+    category: border-style
+
+  - name: border-thin
+    value: '{!border-thin}'
+    meta:
+     friendlyName: Border Thin
+    category: border-style
+
+  - name: border-skinny
+    value: '{!border-skinny}'
+    meta:
+     friendlyName: Border Skinny
+    category: border-style
+
+  - name: border-medium
+    value: '{!border-medium}'
+    meta:
+     friendlyName: Border Medium
+    category: border-style
+

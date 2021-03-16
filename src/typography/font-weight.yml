@@ -1,0 +1,36 @@
+global:
+  type: typography
+  category: font-weight
+imports:
+  - ./aliases.yml
+
+props:
+  - name:  font-weight-thin
+    value: '{!font-weight-thin}'
+    meta:
+     friendlyName: Font Weight Thin
+    category: font-weight
+
+  - name:  font-weight-regular
+    value: '{!font-weight-regular}'
+    meta:
+     friendlyName: Font Weight Regular
+    category: font-weight
+
+  - name:  font-weight-medium
+    value: '{!font-weight-medium}'
+    meta:
+     friendlyName: Font Weight Medium
+    category: font-weight
+
+  - name:  font-weight-chubby
+    value: '{!font-weight-chubby}'
+    meta:
+     friendlyName: Font Weight Chubby
+    category: font-weight
+  
+  - name:  font-weight-bold
+    value: '{!font-weight-bold}'
+    meta:
+     friendlyName: Font Weight Bold
+    category: font-weight

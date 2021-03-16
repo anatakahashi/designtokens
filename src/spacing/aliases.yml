@@ -1,0 +1,17 @@
+global:
+  type: aliases
+  category: spacing
+
+aliases:
+  no-space: '0px'
+  s-space-xxs: '4px'
+  s-space-xs: '8px'
+  s-space-sm: '16px'
+  s-space-md: '24px'
+  s-space-lg: '32px'
+  s-space-xl: '48px'
+  s-space-xxl: '64px'
+
+  l-space-xs: '80px'
+  l-space-sm: '104px'
+  l-space-md: '240px'

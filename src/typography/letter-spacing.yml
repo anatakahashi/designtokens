@@ -1,0 +1,25 @@
+global:
+  type: typography
+  category: letter-spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name:  letter-spacing-none
+    value: '{!letter-spacing-none}'
+    meta:
+     friendlyName: Letter Spacing None
+    category: letter-spacing
+
+  - name:  letter-spacing-small
+    value: '{!letter-spacing-small}'
+    meta:
+     friendlyName: Letter Spacing Small
+    category: letter-spacing
+  
+  - name:  letter-spacing-medium
+    value: '{!letter-spacing-medium}'
+    meta:
+     friendlyName: Letter Spacing Medium
+    category: letter-spacing

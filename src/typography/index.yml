@@ -1,0 +1,9 @@
+# List of all color tokens files
+# Useful for documentarion generation
+imports:
+  - ./font-family.yml
+  - ./font-weight.yml
+  - ./font-size.yml
+  - ./font-weight.yml
+  - ./line-height.yml
+  - ./letter-spacing.yml

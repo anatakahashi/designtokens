@@ -1,0 +1,48 @@
+global:
+  type: typography
+  category: font-size
+imports:
+  - ./aliases.yml
+
+props:
+  - name:  font-size-xxxl
+    value: '{!font-size-xxxl}'
+    meta:
+     friendlyName: Font Size XXXL
+    category: font-size
+
+  - name:  font-size-xxl
+    value: '{!font-size-xxl}'
+    meta:
+     friendlyName: Font Size XXL
+    category: font-size
+
+  - name:  font-size-xl
+    value: '{!font-size-xl}'
+    meta:
+     friendlyName: Font Size XXL
+    category: font-size
+
+  - name:  font-size-lg
+    value: '{!font-size-lg}'
+    meta:
+     friendlyName: Font Size LG
+    category: font-size
+
+  - name:  font-size-md
+    value: '{!font-size-md}'
+    meta:
+     friendlyName: Font Size MD
+    category: font-size
+  
+  - name:  font-size-sm
+    value: '{!font-size-sm}'
+    meta:
+     friendlyName: Font Size SM
+    category: font-size
+  
+  - name:  font-size-xs
+    value: '{!font-size-xs}'
+    meta:
+     friendlyName: Font Size XS
+    category: font-size

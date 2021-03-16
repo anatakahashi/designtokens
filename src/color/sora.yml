@@ -1,0 +1,43 @@
+global:
+  type: color
+  category: colors
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: sora-bright
+    value: '{!sora-bright}'
+    meta:
+     friendlyName: Sora Bright
+    category: background-color
+
+  - name: sora-light
+    value: '{!sora-light}'
+    meta:
+     friendlyName: Sora Light
+    category: background-color
+
+  - name: sora-soft
+    value: '{!sora-soft}'
+    meta:
+     friendlyName: Sora Soft
+    category: background-color
+
+  - name: sora-medium
+    value: '{!sora-medium}'
+    meta:
+     friendlyName: Sora Medium
+    category: background-color
+  
+  - name: sora-bold
+    value: '{!sora-bold}'
+    meta:
+     friendlyName: Sora Bold
+    category: background-color
+
+  - name: sora-dark
+    value: '{!sora-dark}'
+    meta:
+     friendlyName: Sora Dark
+    category: background-color

@@ -1,0 +1,31 @@
+global:
+  type: radius
+  category: border-radius
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: square
+    value: '{!square}'
+    meta:
+     friendlyName: Square
+    category: border-radius
+
+  - name: softly-rounded
+    value: '{!softly-rounded}'
+    meta:
+     friendlyName: Softly Rounded
+    category: border-radius
+
+  - name: rounded
+    value: '{!rounded}'
+    meta:
+     friendlyName: Rounded
+    category: border-radius
+  
+  - name: pill
+    value: '{!pill}'
+    meta:
+     friendlyName: Pill
+    category: border-radius

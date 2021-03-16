@@ -1,0 +1,14 @@
+global:
+  type: typography
+  category: font-family
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name:  font-otousan
+    value: '{!font-otousan}'
+    meta:
+     friendlyName: Font Otousan
+    category: font-family
+

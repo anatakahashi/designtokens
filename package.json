@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "theo": "^8.1.5"
+  },
+  "scripts": {
+    "web": "theo src/tokens.yml --transform web --format scss --dest tokens"
+  }
+}

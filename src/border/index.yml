@@ -1,0 +1,5 @@
+# List of all border tokens files
+# Useful for documentarion generation
+imports:
+  - ./border-thickness.yml
+  - ./border-radius.yml

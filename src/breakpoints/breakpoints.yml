@@ -1,0 +1,31 @@
+global:
+  type: shadow
+  category: breakpoints
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: mobile 
+    value: '{!mobile}'
+    meta:
+     friendlyName: Mobile
+    category: media-query
+
+  - name: tablet
+    value: '{!tablet}'
+    meta:
+     friendlyName: Tablet
+    category: media-query
+
+  - name: small-screens
+    value: '{!small-screens}'
+    meta:
+     friendlyName: Small Screens
+    category: media-query
+
+  - name: default-screens
+    value: '{!default-screens}'
+    meta:
+     friendlyName: Default Screens
+    category: media-query

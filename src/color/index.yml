@@ -1,0 +1,6 @@
+# List of all color tokens files
+# Useful for documentarion generation
+imports:
+  - ./fuji.yml
+  - ./sora.yml
+  - ./zen.yml

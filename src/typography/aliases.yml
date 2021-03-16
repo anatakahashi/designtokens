@@ -1,0 +1,29 @@
+global:
+  type: aliases
+  category: typography
+
+aliases:
+  font-otousan: 'Nunito Sans'
+
+  font-size-xxxl: '4rem'
+  font-size-xxl: '3rem'
+  font-size-xl: '2.25rem'
+  font-size-lg: '1.75rem'
+  font-size-md: '1.25rem'
+  font-size-sm: '1rem'
+  font-size-xs: '0.75rem' 
+
+  font-weight-thin: '300'
+  font-weight-regular: '400'
+  font-weight-medium: '600'
+  font-weight-chubby: '700'
+  font-weight-bold: '900'
+
+  line-height-tiny: '100%'
+  line-height-small: '120%'
+  line-height-medium: 140%
+  line-height-tall: '180%'
+
+  letter-spacing-none: '0px'
+  letter-spacing-small: '0.3px'
+  letter-spacing-medium: '0.8px'

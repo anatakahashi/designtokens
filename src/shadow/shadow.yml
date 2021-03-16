@@ -1,0 +1,25 @@
+global:
+  type: shadow
+  category: shadow
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: shadow-smooth 
+    value: '{!shadow-smooth}'
+    meta:
+     friendlyName: Shadow Smooth
+    category: box-shadow
+
+  - name: shadow-medium 
+    value: '{!shadow-medium}'
+    meta:
+     friendlyName: Shadow Medium
+    category: box-shadow
+
+  - name: shadow-high
+    value: '{!shadow-high}'
+    meta:
+     friendlyName: Shadow High
+    category: box-shadow

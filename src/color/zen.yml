@@ -1,0 +1,49 @@
+global:
+  type: color
+  category: colors
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: zen-bright
+    value: '{!zen-bright}'
+    meta:
+     friendlyName: Zen Bright
+    category: background-color
+
+  - name: zen-light
+    value: '{!zen-light}'
+    meta:
+     friendlyName: Zen Light
+    category: background-color
+
+  - name: zen-soft
+    value: '{!zen-soft}'
+    meta:
+     friendlyName: Zen Soft
+    category: background-color
+
+  - name: zen-medium
+    value: '{!zen-medium}'
+    meta:
+     friendlyName: Zen Medium
+    category: background-color
+  
+  - name: zen-bold
+    value: '{!zen-bold}'
+    meta:
+     friendlyName: Zen Bold
+    category: background-color
+
+  - name: zen-dark
+    value: '{!zen-dark}'
+    meta:
+     friendlyName: Zen Dark
+    category: background-color
+
+  - name: Zen-darker
+    value: '{!zen-darker}'
+    meta:
+     friendlyName: Zen Darker
+    category: background-color

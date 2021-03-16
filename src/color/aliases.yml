@@ -1,0 +1,28 @@
+global:
+  type: aliases
+  category: pallet-color
+
+aliases:
+  fuji-shiny: '#FCFCFF'
+  fuji-bright: '#EBEDF5'
+  fuji-light: '#B8BCC5'
+  fuji-soft: '#707993'
+  fuji-medium: '#475272'
+  fuji-bold: '#252F4A'
+  fuji-dark: '#0C1736'
+  fuji-darker: '#000209'
+
+  sora-bright: '#EDF7FF'
+  sora-light: '#CDEAFF'
+  sora-soft: '#94CBFF'
+  sora-medium: '#50ABFF'
+  sora-bold: '#318DE2'
+  sora-dark: '#0F4D87'
+
+  zen-bright: '#F3F3F3'
+  zen-light: '#DFDFDF'
+  zen-soft: '#D1D1D1'
+  zen-medium: '#959595'
+  zen-bold: '#707070'
+  zen-dark: '#4D4D4D'
+  zen-darker: '#2B2B2B'

@@ -1,0 +1,8 @@
+global:
+  type: aliases
+  category: drop-shadow
+
+aliases:
+  shadow-smooth: '0px 2px 2px rgba(12, 23, 54, 0.15), 0px 0px 4px rgba(12, 23, 54, 0.15)'
+  shadow-medium: '0px 2px 2px rgba(12, 23, 54, 0.15), 0px 4px 10px rgba(12, 23, 54, 0.15)'
+  shadow-high: '0px 0px 4px rgba(0, 2, 9, 0.1), 0px 8px 15px 2px rgba(12, 23, 54, 0.1)'

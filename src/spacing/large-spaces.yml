@@ -1,0 +1,25 @@
+global:
+  type: spacing
+  category: layout-spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: l-space-xs 
+    value: '{!l-space-xs}'
+    meta:
+     friendlyName: l-Space XS
+    category: spacing
+
+  - name: l-space-sm 
+    value: '{!l-space-sm}'
+    meta:
+     friendlyName: l-Space SM
+    category: spacing
+
+  - name: l-space-md 
+    value: '{!l-space-md}'
+    meta:
+     friendlyName: l-Space MD
+    category: spacing

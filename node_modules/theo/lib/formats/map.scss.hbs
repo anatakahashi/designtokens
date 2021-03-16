@@ -1,0 +1,17 @@
+{{! Copyright (c) 2015, salesforce.com, inc. - All rights reserved }}
+{{! Licensed under BSD 3-Clause - https://opensource.org/licenses/BSD-3-Clause }}
+
+{{!
+  We store each value in a Sass list: `(value)`, so quotes
+  and commas in values don't create syntax errors, also allowing
+  us to count items in each value properly.
+  See issue here: http://www.sassmeister.com/gist/705e0d611be460d7bed020283ea1ffd2
+}}
+${{stem meta.file}}-map: (
+{{#each props as |prop|}}
+  {{#if prop.comment}}
+  {{{trimLeft (indent (comment (trim prop.comment)))}}}
+  {{/if}}
+  '{{kebabcase prop.name}}': ({{#eq prop.type "string"}}"{{/eq}}{{{prop.value}}}{{#eq prop.type "string"}}"{{/eq}}),
+{{/each}}
+);

@@ -1,0 +1,31 @@
+global:
+  type: typography
+  category: line-height
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name:  line-height-tiny
+    value: '{!line-height-tiny}'
+    meta:
+     friendlyName: Line Height Tiny
+    category: line-height
+
+  - name:  line-height-small
+    value: '{!line-height-small}'
+    meta:
+     friendlyName: Line Height Small
+    category: line-height
+
+  - name:  line-height-medium
+    value: '{!line-height-medium}'
+    meta:
+     friendlyName: Line Height Medium
+    category: line-height
+
+  - name:  line-height-tall
+    value: '{!line-height-tall}'
+    meta:
+     friendlyName: Line Height Tall
+    category: line-height

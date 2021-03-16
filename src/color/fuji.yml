@@ -1,0 +1,55 @@
+global:
+  type: color
+  category: colors
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: fuji-shiny
+    value: '{!fuji-shiny}'
+    meta:
+     friendlyName: Fuji Shiny
+    category: background-color
+
+  - name: fuji-bright
+    value: '{!fuji-bright}'
+    meta:
+     friendlyName: Fuji Bright
+    category: background-color
+
+  - name: fuji-light
+    value: '{!fuji-light}'
+    meta:
+     friendlyName: Fuji Light
+    category: background-color
+
+  - name: fuji-soft
+    value: '{!fuji-soft}'
+    meta:
+     friendlyName: Fuji Soft
+    category: background-color
+
+  - name: fuji-medium
+    value: '{!fuji-medium}'
+    meta:
+     friendlyName: Fuji Medium
+    category: background-color
+  
+  - name: fuji-bold
+    value: '{!fuji-bold}'
+    meta:
+     friendlyName: Fuji Bold
+    category: background-color
+
+  - name: fuji-dark
+    value: '{!fuji-dark}'
+    meta:
+     friendlyName: Fuji Dark
+    category: background-color
+
+  - name: fuji-darker
+    value: '{!fuji-darker}'
+    meta:
+     friendlyName: Fuji Darker
+    category: background-color

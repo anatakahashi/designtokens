@@ -1,0 +1,55 @@
+global:
+  type: spacing
+  category: component-spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: no-space 
+    value: '{!no-space}'
+    meta:
+     friendlyName: No Space
+    category: spacing
+
+  - name: s-space-xxs 
+    value: '{!s-space-xxs}'
+    meta:
+     friendlyName: s-Space XXS
+    category: spacing
+
+  - name: s-space-xs 
+    value: '{!s-space-xs}'
+    meta:
+     friendlyName: s-Space XS
+    category: spacing
+
+  - name: s-space-sm 
+    value: '{!s-space-sm}'
+    meta:
+     friendlyName: s-Space SM
+    category: spacing
+
+  - name: s-space-md 
+    value: '{!s-space-md}'
+    meta:
+     friendlyName: s-Space MD
+    category: spacing
+  
+  - name: s-space-lg 
+    value: '{!s-space-lg}'
+    meta:
+     friendlyName: s-Space LG
+    category: spacing
+  
+  - name: s-space-xl 
+    value: '{!s-space-xl}'
+    meta:
+     friendlyName: s-Space XL
+    category: spacing
+
+  - name: s-space-xxl 
+    value: '{!s-space-xxl}'
+    meta:
+     friendlyName: s-Space XXL
+    category: spacing

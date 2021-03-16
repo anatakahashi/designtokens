@@ -1,0 +1,9 @@
+global:
+  type: aliases
+  category: breakpoints
+
+aliases:
+  mobile: '(max-width:359px)'
+  tablet: '(max-width:768px)'
+  small-screens: '(max-width:1200px)'
+  default-screens: '(min-width: 1201px)'

@@ -1,0 +1,18 @@
+global:
+  type: aliases
+  category: border-radius
+
+aliases:
+
+#border radius
+  square: '0px'
+  softly-rounded: '4px'
+  rounded: '8px'
+  pill: '100px'
+
+#border thickness
+
+  no-border: '0px'
+  border-thin: '1px'
+  border-skinny: '2px'
+  border-medium: '4px'

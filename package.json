@@ -1,7 +1,14 @@
 {
+  "name": "designtokens",
+  "version": "1.0.0",
+  "description": "This are Ana Takahashi deisgn tokens",
   "dependencies": {
     "optimist": "^0.6.1",
     "theo": "^8.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatakahashi/designtokens.git"
   },
   "scripts": {
     "web": "theo src/tokens.yml --transform web --format scss --dest tokens"

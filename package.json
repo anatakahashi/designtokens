@@ -1,5 +1,5 @@
 {
-  "name": "designtokens",
+  "name": "@anatakahashiux/designtokens",
   "version": "1.0.0",
   "description": "This are Ana Takahashi deisgn tokens",
   "dependencies": {
@@ -10,6 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/anatakahashi/designtokens.git"
   },
+  "publishConfig": {
+    "access": "public",
   "scripts": {
     "web": "theo src/tokens.yml --transform web --format scss --dest tokens"
   }

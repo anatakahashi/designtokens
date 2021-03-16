@@ -11,7 +11,8 @@
     "url": "git+https://github.com/anatakahashi/designtokens.git"
   },
   "publishConfig": {
-    "access": "public",
+    "access": "public"
+  },
   "scripts": {
     "web": "theo src/tokens.yml --transform web --format scss --dest tokens"
   }

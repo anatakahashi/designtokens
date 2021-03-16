@@ -15,5 +15,6 @@
   },
   "scripts": {
     "web": "theo src/tokens.yml --transform web --format scss --dest tokens"
-  }
+  },
+  "license": "ISC"
 }

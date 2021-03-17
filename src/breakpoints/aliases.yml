@@ -3,7 +3,7 @@ global:
   category: breakpoints
 
 aliases:
-  mobile: "max-width: 359px"
-  tablet: "max-width: 768px"
-  small-screens: "max-width: 1200px"
-  default-screens: "min-width: 1201px"
+  mobile: "359px"
+  tablet: "768px"
+  small-screens: "1200px"
+  default-screens: "1201px"

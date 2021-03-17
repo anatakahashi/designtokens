@@ -3,7 +3,6 @@ global:
   category: breakpoints
 
 aliases:
-  mobile: "359px"
+  mobile: "360px"
   tablet: "768px"
-  small-screens: "1200px"
-  default-screens: "1201px"
+  web: "1200px"

@@ -6,26 +6,20 @@ imports:
   - ./aliases.yml
 
 props:
-  - name: mobile 
-    value: '{!mobile}'
+  - name: mobile
+    value: "{!mobile}"
     meta:
-     friendlyName: Mobile
+      friendlyName: Mobile
     category: media-query
 
   - name: tablet
-    value: '{!tablet}'
+    value: "{!tablet}"
     meta:
-     friendlyName: Tablet
+      friendlyName: Tablet
     category: media-query
 
-  - name: small-screens
-    value: '{!small-screens}'
+  - name: web
+    value: "{!web}"
     meta:
-     friendlyName: Small Screens
-    category: media-query
-
-  - name: default-screens
-    value: '{!default-screens}'
-    meta:
-     friendlyName: Default Screens
+      friendlyName: Small Screens
     category: media-query

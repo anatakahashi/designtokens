@@ -1,6 +1,6 @@
 {
   "name": "anatakahashi-tokens",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This are Ana Takahashi deisgn tokens",
   "dependencies": {
     "optimist": "^0.6.1",

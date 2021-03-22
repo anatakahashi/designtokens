@@ -5,44 +5,50 @@ imports:
   - ./aliases.yml
 
 props:
-  - name:  font-size-xxxl
-    value: '{!font-size-xxxl}'
+  - name: font-size-g
+    value: "{!font-size-g}"
     meta:
-     friendlyName: Font Size XXXL
+      friendlyName: Font Size G
     category: font-size
 
-  - name:  font-size-xxl
-    value: '{!font-size-xxl}'
+  - name: font-size-xxxl
+    value: "{!font-size-xxxl}"
     meta:
-     friendlyName: Font Size XXL
+      friendlyName: Font Size XXXL
     category: font-size
 
-  - name:  font-size-xl
-    value: '{!font-size-xl}'
+  - name: font-size-xxl
+    value: "{!font-size-xxl}"
     meta:
-     friendlyName: Font Size XXL
+      friendlyName: Font Size XXL
     category: font-size
 
-  - name:  font-size-lg
-    value: '{!font-size-lg}'
+  - name: font-size-xl
+    value: "{!font-size-xl}"
     meta:
-     friendlyName: Font Size LG
+      friendlyName: Font Size XXL
     category: font-size
 
-  - name:  font-size-md
-    value: '{!font-size-md}'
+  - name: font-size-lg
+    value: "{!font-size-lg}"
     meta:
-     friendlyName: Font Size MD
+      friendlyName: Font Size LG
     category: font-size
-  
-  - name:  font-size-sm
-    value: '{!font-size-sm}'
+
+  - name: font-size-md
+    value: "{!font-size-md}"
     meta:
-     friendlyName: Font Size SM
+      friendlyName: Font Size MD
     category: font-size
-  
-  - name:  font-size-xs
-    value: '{!font-size-xs}'
+
+  - name: font-size-sm
+    value: "{!font-size-sm}"
     meta:
-     friendlyName: Font Size XS
+      friendlyName: Font Size SM
+    category: font-size
+
+  - name: font-size-xs
+    value: "{!font-size-xs}"
+    meta:
+      friendlyName: Font Size XS
     category: font-size

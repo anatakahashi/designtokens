@@ -1,8 +1,0 @@
-global:
-  type: aliases
-  category: breakpoints
-
-aliases:
-  mobile: "360px"
-  tablet: "768px"
-  web: "1200px"

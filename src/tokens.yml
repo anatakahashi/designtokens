@@ -4,4 +4,3 @@ imports:
   - ./shadow/shadow.yml
   - ./spacing/index.yml
   - ./typography/index.yml
-  - ./breakpoints/breakpoints.yml

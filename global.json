@@ -807,6 +807,10 @@
             "active": {
               "value": "{color.primary.active}",
               "type": "color"
+            },
+            "default": {
+              "value": "{color.sora.medium-dark}",
+              "type": "color"
             }
           }
         }

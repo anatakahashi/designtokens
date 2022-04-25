@@ -815,15 +815,15 @@
       },
       "accent": {
         "default": {
-          "value": "{color.sakura.medium}",
+          "value": "{color.sakura.medium-dark}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.sakura.medium-dark}",
+          "value": "{color.sakura.dark}",
           "type": "color"
         },
         "active": {
-          "value": "{color.sakura.medium-dark}",
+          "value": "{color.sakura.dark}",
           "type": "color"
         }
       },
@@ -847,6 +847,10 @@
         "success": {
           "value": "{color.success.default}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{color.accent.default}",
+          "type": "color"
         }
       },
       "background": {
@@ -858,21 +862,35 @@
           "value": "{color.fuji.light}",
           "type": "color"
         }
-      },
-      "link": {
-        "primary": {
-          "default": {
-            "value": "{color.sora.medium-dark}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.sora.dark}",
-            "type": "color"
-          }
-        }
       }
     },
     "component": {
+      "link": {
+        "color": {
+          "primary": {
+            "default": {
+              "value": "{color.sora.medium-dark}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.sora.dark}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "logo": {
+        "color": {
+          "default": {
+            "value": "{color.fuji.soft-medium}",
+            "type": "color"
+          },
+          "negative": {
+            "value": "{color.fuji.soft}",
+            "type": "color"
+          }
+        }
+      },
       "button": {
         "shape": {
           "spacing": {

@@ -960,13 +960,39 @@
         }
       }
     },
-    "Big Header": {
+    "big-header": {
       "value": {
         "fontFamily": "{font-family.otousan}",
-        "fontWeight": "Regular",
-        "lineHeight": "AUTO",
-        "fontSize": "18",
-        "letterSpacing": "0%",
+        "fontWeight": "{weight.thin}",
+        "lineHeight": "{line-height.small}",
+        "fontSize": "{font-size.g}",
+        "letterSpacing": "{letter-spacing.none}",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
+    },
+    "large-header": {
+      "value": {
+        "fontFamily": "{font-family.otousan}",
+        "fontWeight": "{weight.thin}",
+        "lineHeight": "{line-height.small}",
+        "fontSize": "{font-size.xxl}",
+        "letterSpacing": "{letter-spacing.none}",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
+    },
+    "small-subtitle": {
+      "value": {
+        "fontFamily": "{font-family.otousan}",
+        "fontWeight": "{weight.medium}",
+        "lineHeight": "{line-height.medium}",
+        "fontSize": "{font-size.md}",
+        "letterSpacing": "{letter-spacing.small}",
         "paragraphSpacing": "0",
         "textDecoration": "none",
         "textCase": "none"

@@ -156,6 +156,18 @@
             }
           }
         }
+      },
+      "border": {
+        "color": {
+          "soft": {
+            "value": "{color.fuji.soft}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{color.fuji.medium-dark}",
+            "type": "color"
+          }
+        }
       }
     }
   },
@@ -942,6 +954,19 @@
           },
           "type": "typography"
         },
+        "medium-header": {
+          "value": {
+            "fontFamily": "{font-family-otousan}",
+            "fontWeight": "{weight-thin}",
+            "lineHeight": "{line-height-small}",
+            "fontSize": "{font-size-xxl}",
+            "letterSpacing": "{letter-spacing-none}",
+            "paragraphSpacing": "{s-space-xl}",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
         "small-subtitle": {
           "value": {
             "fontFamily": "{font-family.otousan}",
@@ -976,6 +1001,32 @@
             "fontSize": "{font-size.sm}",
             "letterSpacing": "{letter-spacing.medium}",
             "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "subtitle": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight-medium}",
+            "lineHeight": "{line-height-medium}",
+            "fontSize": "{font-size-lg}",
+            "letterSpacing": "{letter-spacing-small}",
+            "paragraphSpacing": "{s-space-lg}",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "paragraph": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight-regular}",
+            "lineHeight": "{line-height-tall}",
+            "fontSize": "{font-size-sm}",
+            "letterSpacing": "{letter-spacing-small}",
+            "paragraphSpacing": "{s-space-lg}",
             "textDecoration": "none",
             "textCase": "none"
           },

@@ -1,5 +1,5 @@
 {
-  "global": {
+  "chie.global": {
     "color": {
       "fuji": {
         "bright": {
@@ -892,7 +892,7 @@
       }
     }
   },
-  "light": {
+  "chie.light": {
     "color": {
       "brand": {
         "default": {

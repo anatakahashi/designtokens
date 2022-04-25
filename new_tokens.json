@@ -1,5 +1,165 @@
 {
-  "chie.global": {
+  "light": {
+    "color": {
+      "brand": {
+        "default": {
+          "value": "{color.sora.medium-dark}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.sora.dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.sora.dark}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{color.take.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.take.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.take.medium-dark}",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "{color.fuan.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.fuan.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.fuan.medium-dark}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "default": {
+          "value": "{color.koi.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.koi.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.koi.medium-dark}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "{color.sakura.medium-dark}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.sakura.dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.sakura.dark}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{color.fuji.darker}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.fuji.medium-dark}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.fuji.soft-medium}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{color.critical.default}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.success.default}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.accent.default}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "primary": {
+          "value": "{color.fuji.bright}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.fuji.light}",
+          "type": "color"
+        }
+      }
+    },
+    "component": {
+      "link": {
+        "color": {
+          "primary": {
+            "default": {
+              "value": "{color.sora.medium-dark}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.sora.dark}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "logo": {
+        "color": {
+          "default": {
+            "value": "{color.fuji.soft-medium}",
+            "type": "color"
+          },
+          "negative": {
+            "value": "{color.fuji.soft}",
+            "type": "color"
+          }
+        }
+      },
+      "button": {
+        "shape": {
+          "color": {
+            "primary": {
+              "default": {
+                "value": "{color.brand.default}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "label": {
+          "color": {
+            "primary": {
+              "default}": {
+                "value": "{color.fuji.bright}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "global": {
     "color": {
       "fuji": {
         "bright": {
@@ -885,166 +1045,6 @@
                   "value": "{size.xxs}",
                   "type": "sizing"
                 }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "chie.light": {
-    "color": {
-      "brand": {
-        "default": {
-          "value": "{color.sora.medium-dark}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.sora.dark}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.sora.dark}",
-          "type": "color"
-        }
-      },
-      "success": {
-        "default": {
-          "value": "{color.take.medium}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.take.medium-dark}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.take.medium-dark}",
-          "type": "color"
-        }
-      },
-      "critical": {
-        "default": {
-          "value": "{color.fuan.medium}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.fuan.medium-dark}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.fuan.medium-dark}",
-          "type": "color"
-        }
-      },
-      "alert": {
-        "default": {
-          "value": "{color.koi.medium}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.koi.medium-dark}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.koi.medium-dark}",
-          "type": "color"
-        }
-      },
-      "accent": {
-        "default": {
-          "value": "{color.sakura.medium-dark}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.sakura.dark}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.sakura.dark}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "primary": {
-          "value": "{color.fuji.darker}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{color.fuji.medium-dark}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{color.fuji.soft-medium}",
-          "type": "color"
-        },
-        "critical": {
-          "value": "{color.critical.default}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{color.success.default}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{color.accent.default}",
-          "type": "color"
-        }
-      },
-      "background": {
-        "primary": {
-          "value": "{color.fuji.bright}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{color.fuji.light}",
-          "type": "color"
-        }
-      }
-    },
-    "component": {
-      "link": {
-        "color": {
-          "primary": {
-            "default": {
-              "value": "{color.sora.medium-dark}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.sora.dark}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "logo": {
-        "color": {
-          "default": {
-            "value": "{color.fuji.soft-medium}",
-            "type": "color"
-          },
-          "negative": {
-            "value": "{color.fuji.soft}",
-            "type": "color"
-          }
-        }
-      },
-      "button": {
-        "shape": {
-          "color": {
-            "primary": {
-              "default": {
-                "value": "{color.brand.default}",
-                "type": "color"
-              }
-            }
-          }
-        },
-        "label": {
-          "color": {
-            "primary": {
-              "default}": {
-                "value": "{color.fuji.bright}",
-                "type": "color"
               }
             }
           }

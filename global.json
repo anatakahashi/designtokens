@@ -56,7 +56,7 @@
           "value": "#318DE2",
           "type": "color"
         },
-        "sora-dark": {
+        "dark": {
           "value": "#0F4D87",
           "type": "color"
         }
@@ -861,9 +861,17 @@
     "component": {
       "button": {
         "shape": {
-          "padding": {
+          "spacing": {
             "large": {
-              "value": "{spacing.sm}",
+              "value": "{spacing.s-sm}",
+              "type": "spacing"
+            },
+            "medium": {
+              "value": "{spacing.s-xs}",
+              "type": "spacing"
+            },
+            "small": {
+              "value": "{spacing.s-xxs}",
               "type": "spacing"
             }
           },
@@ -885,6 +893,20 @@
           }
         },
         "input": {
+          "spacing": {
+            "large": {
+              "value": "{spacing.s-sm}",
+              "type": "spacing"
+            },
+            "medium": {
+              "value": "{spacing.s-xs}",
+              "type": "spacing"
+            },
+            "small": {
+              "value": "{spacing.s-xxs}",
+              "type": "spacing"
+            }
+          },
           "shape": {
             "size": {
               "height": {

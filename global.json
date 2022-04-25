@@ -999,5 +999,171 @@
       },
       "type": "typography"
     }
+  },
+  "dark": {
+    "color": {
+      "brand": {
+        "default": {
+          "value": "{color.sora.medium-dark}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.sora.dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.sora.dark}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{color.take.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.take.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.take.medium-dark}",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "{color.fuan.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.fuan.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.fuan.medium-dark}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "default": {
+          "value": "{color.koi.medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.koi.medium-dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.koi.medium-dark}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "{color.sakura.medium-dark}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.sakura.dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.sakura.dark}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{color.fuji.bright}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.fuji.light}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.fuji.soft}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{color.critical.default}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.success.default}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.accent.default}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "primary": {
+          "value": "{color.fuji.medium-dark}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.fuji.dark}",
+          "type": "color"
+        }
+      }
+    },
+    "component": {
+      "typography": {
+        "big-header": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight.thin}",
+            "lineHeight": "{line-height.small}",
+            "fontSize": "{font-size.g}",
+            "letterSpacing": "{letter-spacing.none}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "large-header": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight.thin}",
+            "lineHeight": "{line-height.small}",
+            "fontSize": "{font-size.xxl}",
+            "letterSpacing": "{letter-spacing.none}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "small-subtitle": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight.medium}",
+            "lineHeight": "{line-height.medium}",
+            "fontSize": "{font-size.md}",
+            "letterSpacing": "{letter-spacing.small}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "caption": {
+          "value": {
+            "fontFamily": "{font-family.otousan}",
+            "fontWeight": "{weight.medium}",
+            "lineHeight": "{line-height.medium}",
+            "fontSize": "{font-size.xs}",
+            "letterSpacing": "{letter-spacing.medium}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "uppercase"
+          },
+          "type": "typography"
+        }
+      }
+    }
   }
 }

@@ -344,12 +344,12 @@
           "value": "#ef68bd",
           "type": "color"
         },
-        "darker": {
-          "value": "#661648",
-          "type": "color"
-        },
         "dark": {
           "value": "#b13a85",
+          "type": "color"
+        },
+        "darker": {
+          "value": "#661648",
           "type": "color"
         }
       },
@@ -374,12 +374,12 @@
           "value": "#7aa125",
           "type": "color"
         },
-        "darker": {
-          "value": "#314604",
-          "type": "color"
-        },
         "dark": {
           "value": "#557909",
+          "type": "color"
+        },
+        "darker": {
+          "value": "#314604",
           "type": "color"
         }
       }

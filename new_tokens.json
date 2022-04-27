@@ -489,7 +489,7 @@
       }
     },
     "size": {
-      "xxs": {
+      "xxxs": {
         "value": "20px",
         "type": "sizing"
       },
@@ -523,6 +523,10 @@
       },
       "g": {
         "value": "240px",
+        "type": "sizing"
+      },
+      "xxs": {
+        "value": "24px",
         "type": "sizing"
       }
     },
@@ -1073,7 +1077,7 @@
                 "type": "sizing"
               },
               "small": {
-                "value": "{size.xxs}",
+                "value": "{size.xxxs}",
                 "type": "sizing"
               }
             }
@@ -1106,7 +1110,7 @@
                   "type": "sizing"
                 },
                 "small": {
-                  "value": "{size.xxs}",
+                  "value": "{size.xxxs}",
                   "type": "sizing"
                 }
               }

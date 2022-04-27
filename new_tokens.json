@@ -526,7 +526,7 @@
         "type": "sizing"
       }
     },
-    "borderRadius": {
+    "radii": {
       "square": {
         "value": "0",
         "type": "borderRadius"

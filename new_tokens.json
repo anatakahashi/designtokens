@@ -157,7 +157,7 @@
           }
         }
       },
-      "border": {
+      "divider": {
         "color": {
           "soft": {
             "value": "{color.fuji.soft}",
@@ -1035,7 +1035,7 @@
         "small-paragraph": {
           "value": {
             "fontFamily": "{font-family.otousan}",
-            "fontWeight": "{weight.regular}",
+            "fontWeight": "{weight.medium}",
             "lineHeight": "{line-height.medium}",
             "fontSize": "{font-size.xs}",
             "letterSpacing": "{letter-spacing.none}",

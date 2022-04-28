@@ -202,6 +202,20 @@
             "type": "color"
           }
         }
+      },
+      "neutral": {
+        "default": {
+          "value": "{color.fuji.soft-medium}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.fuji.medium}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.fuji.medium}",
+          "type": "color"
+        }
       }
     },
     "component": {

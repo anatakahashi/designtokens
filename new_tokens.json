@@ -419,7 +419,7 @@
       },
       "koi": {
         "light": {
-          "value": "#fff2d2",
+          "value": "#fff5e5",
           "type": "color"
         },
         "soft": {
@@ -431,7 +431,7 @@
           "type": "color"
         },
         "medium": {
-          "value": "#f2ba2a",
+          "value": "#f4c70f",
           "type": "color"
         },
         "medium-dark": {

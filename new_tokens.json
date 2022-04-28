@@ -198,6 +198,24 @@
             "type": "color"
           }
         }
+      },
+      "tag": {
+        "shape": {
+          "color": {
+            "primary": {
+              "value": "{color.sora.light}",
+              "type": "color"
+            }
+          }
+        },
+        "label": {
+          "color": {
+            "primary": {
+              "value": "{color.brand.default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   },
@@ -1080,6 +1098,22 @@
                 }
               }
             }
+          }
+        }
+      },
+      "logo": {
+        "size": {
+          "xs": {
+            "value": "{size.xs}",
+            "type": "sizing"
+          }
+        }
+      },
+      "divider": {
+        "sizing": {
+          "sm": {
+            "value": "{spacing.s-sm}",
+            "type": "spacing"
           }
         }
       }

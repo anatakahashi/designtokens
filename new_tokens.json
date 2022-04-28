@@ -97,7 +97,7 @@
           "type": "color"
         },
         "alert": {
-          "value": "{color.koi.dark}",
+          "value": "{color.alert.hover}",
           "type": "color"
         },
         "brand": {
@@ -199,6 +199,20 @@
           },
           "active": {
             "value": "{color.accent.active}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.success.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.success.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.success.active}",
             "type": "color"
           }
         }

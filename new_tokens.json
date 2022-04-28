@@ -134,7 +134,7 @@
       "border": {
         "secondary": {
           "default": {
-            "value": "{color.kumo.soft}",
+            "value": "{color.kumo.soft-medium}",
             "type": "color"
           },
           "hover": {

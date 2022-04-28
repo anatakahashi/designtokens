@@ -99,15 +99,23 @@
         "alert": {
           "value": "{color.alert.hover}",
           "type": "color"
+        },
+        "brand": {
+          "value": "{color.brand.default}",
+          "type": "color"
         }
       },
       "background": {
-        "primary": {
+        "blank": {
           "value": "{color.fuji.bright}",
           "type": "color"
         },
         "secondary": {
           "value": "{color.fuji.light}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.take.light}",
           "type": "color"
         }
       },
@@ -189,7 +197,7 @@
         "color": {
           "primary": {
             "default": {
-              "value": "{color.sora.medium-dark}",
+              "value": "{color.text.brand}",
               "type": "color"
             },
             "hover": {
@@ -242,24 +250,6 @@
           "strong": {
             "value": "{color.fuji.medium-dark}",
             "type": "color"
-          }
-        }
-      },
-      "tag": {
-        "shape": {
-          "color": {
-            "primary": {
-              "value": "{color.sora.light}",
-              "type": "color"
-            }
-          }
-        },
-        "label": {
-          "color": {
-            "primary": {
-              "value": "{color.brand.default}",
-              "type": "color"
-            }
           }
         }
       }

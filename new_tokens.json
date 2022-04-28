@@ -126,14 +126,6 @@
             "type": "color"
           }
         },
-        "dark": {
-          "value": "{color.fuji.medium-dark}",
-          "type": "color"
-        },
-        "dark-hover": {
-          "value": "{color.fuji.dark}",
-          "type": "color"
-        },
         "primary": {
           "default": {
             "value": "{color.brand.default}",
@@ -151,6 +143,42 @@
         "critical": {
           "default": {
             "value": "{color.critical.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.critical.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.critical.active}",
+            "type": "color"
+          }
+        },
+        "alert": {
+          "default": {
+            "value": "{color.alert.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.alert.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.alert.active}",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "default": {
+            "value": "{color.accent.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.accent.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.accent.active}",
             "type": "color"
           }
         }

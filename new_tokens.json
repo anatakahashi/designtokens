@@ -107,28 +107,88 @@
       },
       "background": {
         "blank": {
-          "value": "{color.fuji.bright}",
-          "type": "color"
+          "default": {
+            "value": "{color.fuji.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.fuji.light}",
+            "type": "color"
+          },
+          "active-copy": {
+            "value": "{color.fuji.light}",
+            "type": "color"
+          }
         },
         "secondary": {
-          "value": "{color.fuji.light}",
-          "type": "color"
+          "default": {
+            "value": "{color.fuji.light}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.fuji.soft}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.fuji.soft}",
+            "type": "color"
+          }
         },
         "success": {
-          "value": "{color.take.bright}",
-          "type": "color"
+          "default": {
+            "value": "{color.take.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.take.light}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.take.light}",
+            "type": "color"
+          }
         },
         "primary": {
-          "value": "{color.sora.bright}",
-          "type": "color"
+          "default": {
+            "value": "{color.sora.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.sora.light}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.sora.light}",
+            "type": "color"
+          }
         },
         "critical": {
-          "value": "{color.fuan.bright}",
-          "type": "color"
+          "default": {
+            "value": "{color.fuan.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.fuan.soft}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.fuan.soft}",
+            "type": "color"
+          }
         },
         "alert": {
-          "value": "{color.koi.bright}",
-          "type": "color"
+          "default": {
+            "value": "{color.koi.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.koi.light}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.koi.light}",
+            "type": "color"
+          }
         }
       },
       "border": {

@@ -97,7 +97,7 @@
           "type": "color"
         },
         "alert": {
-          "value": "{color.alert.hover}",
+          "value": "{color.koi.dark}",
           "type": "color"
         },
         "brand": {

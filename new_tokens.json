@@ -115,19 +115,19 @@
           "type": "color"
         },
         "success": {
-          "value": "{color.take.light}",
+          "value": "{color.take.bright}",
           "type": "color"
         },
         "primary": {
-          "value": "{color.sora.light}",
+          "value": "{color.sora.bright}",
           "type": "color"
         },
         "critical": {
-          "value": "{color.fuan.light}",
+          "value": "{color.fuan.bright}",
           "type": "color"
         },
         "alert": {
-          "value": "{color.koi.light}",
+          "value": "{color.koi.bright}",
           "type": "color"
         }
       },
@@ -332,6 +332,10 @@
         }
       },
       "sora": {
+        "bright": {
+          "value": "#f7fbff",
+          "type": "color"
+        },
         "light": {
           "value": "#EDF7FF",
           "type": "color"
@@ -388,6 +392,10 @@
         }
       },
       "fuan": {
+        "bright": {
+          "value": "#ffefef",
+          "type": "color"
+        },
         "light": {
           "value": "#ffd2d2",
           "type": "color"
@@ -418,6 +426,10 @@
         }
       },
       "koi": {
+        "bright": {
+          "value": "#fffcf6",
+          "type": "color"
+        },
         "light": {
           "value": "#fff5e5",
           "type": "color"
@@ -448,6 +460,10 @@
         }
       },
       "sakura": {
+        "bright": {
+          "value": "#fff6fb",
+          "type": "color"
+        },
         "light": {
           "value": "#ffeef8",
           "type": "color"
@@ -478,6 +494,10 @@
         }
       },
       "take": {
+        "bright": {
+          "value": "#faffed",
+          "type": "color"
+        },
         "light": {
           "value": "#f1ffd3",
           "type": "color"

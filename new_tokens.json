@@ -117,6 +117,18 @@
         "success": {
           "value": "{color.take.light}",
           "type": "color"
+        },
+        "primary": {
+          "value": "{color.sora.light}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{color.fuan.light}",
+          "type": "color"
+        },
+        "alert": {
+          "value": "{color.koi.light}",
+          "type": "color"
         }
       },
       "border": {

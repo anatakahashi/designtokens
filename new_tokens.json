@@ -189,6 +189,20 @@
             "value": "{color.koi.light}",
             "type": "color"
           }
+        },
+        "accent": {
+          "default": {
+            "value": "{color.sakura.bright}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.sakura.light}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.sakura.light}",
+            "type": "color"
+          }
         }
       },
       "border": {

@@ -150,15 +150,15 @@
         },
         "primary": {
           "default": {
-            "value": "{color.sora.bright}",
+            "value": "{color.sora.light}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.sora.light}",
+            "value": "{color.sora.soft}",
             "type": "color"
           },
           "active": {
-            "value": "{color.sora.light}",
+            "value": "{color.sora.soft}",
             "type": "color"
           }
         },

@@ -1242,6 +1242,14 @@
           "xs": {
             "value": "{size.xs}",
             "type": "sizing"
+          },
+          "sm": {
+            "value": "{size.md}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{size.lg}",
+            "type": "sizing"
           }
         }
       },

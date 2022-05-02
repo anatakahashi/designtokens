@@ -1260,6 +1260,22 @@
             "type": "spacing"
           }
         }
+      },
+      "icon": {
+        "size": {
+          "lg": {
+            "value": "{size.md}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{size.xs}",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "{size.xxs}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "disabled": {

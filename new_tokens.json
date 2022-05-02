@@ -1250,6 +1250,10 @@
           "md": {
             "value": "{size.lg}",
             "type": "sizing"
+          },
+          "lg": {
+            "value": "{size.xxl}",
+            "type": "sizing"
           }
         }
       },

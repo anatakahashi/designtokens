@@ -103,6 +103,10 @@
         "brand": {
           "value": "{color.brand.default}",
           "type": "color"
+        },
+        "white": {
+          "value": "{color.fuji.bright}",
+          "type": "color"
         }
       },
       "background": {
@@ -115,7 +119,7 @@
             "value": "{color.fuji.light}",
             "type": "color"
           },
-          "active-copy": {
+          "active": {
             "value": "{color.fuji.light}",
             "type": "color"
           }
@@ -330,28 +334,6 @@
           "negative": {
             "value": "{color.fuji.soft}",
             "type": "color"
-          }
-        }
-      },
-      "button": {
-        "shape": {
-          "color": {
-            "primary": {
-              "default": {
-                "value": "{color.brand.default}",
-                "type": "color"
-              }
-            }
-          }
-        },
-        "label": {
-          "color": {
-            "primary": {
-              "default}": {
-                "value": "{color.fuji.bright}",
-                "type": "color"
-              }
-            }
           }
         }
       },

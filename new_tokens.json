@@ -1029,6 +1029,10 @@
       }
     },
     "padding": {
+      "xxs": {
+        "value": "{spacing.s-xxs}",
+        "type": "spacing"
+      },
       "xs": {
         "value": "{spacing.s-xs}",
         "type": "spacing"
@@ -1047,14 +1051,14 @@
       },
       "none": {
         "value": "{spacing.no-space}",
-        "type": "spacing"
-      },
-      "xxs": {
-        "value": "{spacing.s-xxs}",
         "type": "spacing"
       }
     },
     "margin": {
+      "xxs": {
+        "value": "{spacing.s-xxs}",
+        "type": "spacing"
+      },
       "xs": {
         "value": "{spacing.s-xs}",
         "type": "spacing"
@@ -1073,10 +1077,6 @@
       },
       "none": {
         "value": "{spacing.no-space}",
-        "type": "spacing"
-      },
-      "xxs": {
-        "value": "{spacing.s-xxs}",
         "type": "spacing"
       }
     },

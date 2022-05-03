@@ -1270,6 +1270,14 @@
             "type": "borderRadius"
           }
         }
+      },
+      "tag": {
+        "shape": {
+          "radii": {
+            "value": "{radii.softly-rounded}",
+            "type": "borderRadius"
+          }
+        }
       }
     },
     "disabled": {

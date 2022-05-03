@@ -889,16 +889,16 @@
       }
     },
     "duration": {
+      "took-off": {
+        "value": "100ms",
+        "type": "other"
+      },
       "super-fast": {
         "value": "260ms",
         "type": "other"
       },
       "good-driver": {
         "value": "560ms",
-        "type": "other"
-      },
-      "took-off": {
-        "value": "100ms",
         "type": "other"
       },
       "slow": {

@@ -348,6 +348,86 @@
             "type": "color"
           }
         }
+      },
+      "button": {
+        "shape": {
+          "color": {
+            "background": {
+              "contained": {
+                "primary": {
+                  "default": {
+                    "value": "{color.brand.default}",
+                    "type": "color"
+                  },
+                  "hover": {
+                    "value": "{color.brand.hover}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.brand.active}",
+                    "type": "color"
+                  }
+                },
+                "secondary": {
+                  "default": {
+                    "value": "{color.background.secondary.default}",
+                    "type": "color"
+                  },
+                  "hover": {
+                    "value": "{color.background.secondary.hover}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.secondary.active}",
+                    "type": "color"
+                  }
+                },
+                "success": {
+                  "default": {
+                    "value": "{color.success.default}",
+                    "type": "color"
+                  },
+                  "hover": {
+                    "value": "{color.success.hover}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.success.active}",
+                    "type": "color"
+                  }
+                },
+                "critical": {
+                  "default": {
+                    "value": "{color.critical.default}",
+                    "type": "color"
+                  },
+                  "hover": {
+                    "value": "{color.critical.hover}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.critical.active}",
+                    "type": "color"
+                  }
+                },
+                "accent": {
+                  "default": {
+                    "value": "{color.accent.default}",
+                    "type": "color"
+                  },
+                  "hover": {
+                    "value": "{color.accent.hover}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.accent.active}",
+                    "type": "color"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },

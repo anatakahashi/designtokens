@@ -693,6 +693,10 @@
         "value": "20px",
         "type": "sizing"
       },
+      "xxs": {
+        "value": "24px",
+        "type": "sizing"
+      },
       "xs": {
         "value": "32px",
         "type": "sizing"
@@ -723,10 +727,6 @@
       },
       "g": {
         "value": "240px",
-        "type": "sizing"
-      },
-      "xxs": {
-        "value": "24px",
         "type": "sizing"
       }
     },

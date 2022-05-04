@@ -424,7 +424,83 @@
                     "type": "color"
                   }
                 }
+              },
+              "outlined": {
+                "primary": {
+                  "hover": {
+                    "value": "{color.background.primary.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.primary.active}",
+                    "type": "color"
+                  }
+                },
+                "secondary": {
+                  "hover": {
+                    "value": "{color.background.secondary.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.secondary.active}",
+                    "type": "color"
+                  }
+                },
+                "success": {
+                  "hover": {
+                    "value": "{color.background.success.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.success.active}",
+                    "type": "color"
+                  }
+                },
+                "critical": {
+                  "hover": {
+                    "value": "{color.background.critical.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.critical.active}",
+                    "type": "color"
+                  }
+                },
+                "accent": {
+                  "hover": {
+                    "value": "{color.background.accent.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{color.background.accent.active}",
+                    "type": "color"
+                  }
+                }
               }
+            }
+          }
+        },
+        "border": {
+          "color": {
+            "primary": {
+              "value": "{color.border.primary.default}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{color.border.secondary.default}",
+              "type": "color"
+            },
+            "success": {
+              "value": "{color.border.success.default}",
+              "type": "color"
+            },
+            "critical": {
+              "value": "{color.border.critical.default}",
+              "type": "color"
+            },
+            "accent": {
+              "value": "{color.border.accent.default}",
+              "type": "color"
             }
           }
         }

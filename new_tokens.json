@@ -504,6 +504,22 @@
             }
           }
         }
+      },
+      "input": {
+        "shape": {
+          "color": {
+            "background": {
+              "default": {
+                "value": "{color.background.blank.default}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{color.background.primary.default}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     }
   },

@@ -97,7 +97,7 @@
           "type": "color"
         },
         "alert": {
-          "value": "{color.alert.default}",
+          "value": "{color.koi.medium-dark}",
           "type": "color"
         },
         "brand": {

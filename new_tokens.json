@@ -308,6 +308,10 @@
           "value": "{color.fuji.medium}",
           "type": "color"
         }
+      },
+      "negative": {
+        "value": "{color.fuji.bright}",
+        "type": "color"
       }
     },
     "component": {

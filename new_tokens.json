@@ -842,7 +842,7 @@
     },
     "font-family": {
       "otousan": {
-        "value": "Circular Std",
+        "value": "Nunito Sans",
         "type": "fontFamilies"
       }
     },
